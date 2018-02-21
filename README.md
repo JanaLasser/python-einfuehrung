@@ -14,3 +14,5 @@ The course material is in German only and covers
 * matrices with NumPy
 * plotting with Matplotlib
 
+An English translation of the materials can be found at https://github.com/JanaLasser/python-introduction
+
